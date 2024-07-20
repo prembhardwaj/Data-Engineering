@@ -7,7 +7,7 @@ def def_calculator(x,y,o):
     elif o == "*":
         cal = x*y
     elif cal == "/":
-        cal = x*y
+        cal = x/y
     else:
         print( "Operator not recognized")
 
